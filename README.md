@@ -30,12 +30,12 @@ mvn exec:java -Dexec.mainClass="com.example.HelloWorld"
 
 ## Simply the whole compile process with the command below
 
-`
+```
 mvn clean install \
 \#then \
 java -jar target/hello-world-1.0-SNAPSHOT.jar \
 Output: Hello, World!
-`
+```
 
 ## Using the JAR File:
 
