@@ -32,7 +32,7 @@ mvn exec:java -Dexec.mainClass="com.example.HelloWorld"
 
 `
 mvn clean install
-# then
+\# then
 java -jar target/hello-world-1.0-SNAPSHOT.jar
 Output: Hello, World!
 `
